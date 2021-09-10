@@ -1,7 +1,7 @@
 ---
 title: "বাংলা ১ "
 date: 2021-09-09T20:37:07-05:00
-draft: true
+draft: false
 ---
 
 # বাংলা হুগো
