@@ -24,9 +24,10 @@ jobs:
         run: hugo 
 
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v2
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          PERSONAL_TOKEN: ${{ secrets.deploy-token}}
+          # personal_token: ${{ secrets.deploy-token}}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           external_repository: rahulguha/rahul-guha-public
           publish_branch: master
           publish_dir: ./public
