@@ -30,7 +30,7 @@ jobs:
           # github_token: ${{ secrets.GITHUB_TOKEN }}
           # deploy_key: ${{ secrets.DEPLOY_KEY }}
           external_repository: rahulguha/rahul-guha-public
-          publish_branch: master
+          publish_branch: main
           publish_dir: ./public
           emptyCommits: false
           commitMessage: ${{ github.event.head_commit.message }}
