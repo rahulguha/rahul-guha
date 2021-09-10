@@ -27,7 +27,7 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           # personal_token: ${{ secrets.deploy-token}}
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          # github_token: ${{ secrets.GITHUB_TOKEN }}
           deploy_key: ${{ secrets.DEPLOY_KEY }}
           external_repository: rahulguha/rahul-guha-public
           publish_branch: master
