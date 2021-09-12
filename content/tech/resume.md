@@ -8,7 +8,7 @@ Cloud, DevSecOps, API and Cybersecurity Leader
 Solving business problems through technology
 LinkedIn Profile: [http://www.linkedin.com/in/rahul-guha](http://www.linkedin.com/in/rahul-guha)
 
-Flower Mound, TX | 214-433-9701 | rahul.guha@gmail.com
+Flower Mound, TX | 214-4339701 | rahul.guha@gmail.com
 
 I bring in unique blend of technology and agile experience to lead strategic changes across organization. My experience of playing most of the roles in software engineering delivers real results in a repeatable manner.
 
