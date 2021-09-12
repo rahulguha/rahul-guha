@@ -5,7 +5,7 @@ DefaultContentLanguage = "en"
 
 
 theme = "anatole"
-summarylength = 10
+summarylength = 15
 enableEmoji = true
 enableRobotsTXT = true
 
