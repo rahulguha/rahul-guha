@@ -25,6 +25,7 @@ customCss = ["css/styles.css"]
 [params]
 author = "Rahul Guha"
 title = "Rahul Guha's Homepage "
+favicon = "favicons/"
 description = '''
 Call me Rahul
 This is multiline description
