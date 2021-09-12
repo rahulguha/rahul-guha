@@ -1,4 +1,5 @@
-baseURL = "https://rahulguha.github.io/rahul-guha-public/"
+# baseURL = "https://rahulguha.github.io/rahul-guha-public/"
+baseURL = "https://rahul-guha.com"
 languageCode = "en"
 DefaultContentLanguage = "en"
 
