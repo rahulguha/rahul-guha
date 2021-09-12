@@ -1,18 +1,14 @@
-+++
-title = "Rahul Guha"
-description = "Rahul Guha Resume"
-date = "2019-02-28"
-aliases = ["about-me", "whoami", "contact"]
-author = "Rahul Guha"
-+++
-Flower Mound, TX | 214-4339701 | rahul.guha@gmail.com
+---
+title: "Rahul Guha"
+date: 2021-09-12T13:50:53-05:00
+draft: false
+---
 
 Cloud, DevSecOps, API and Cybersecurity Leader
 Solving business problems through technology
-
 LinkedIn Profile: [http://www.linkedin.com/in/rahul-guha](http://www.linkedin.com/in/rahul-guha)
 
-
+Flower Mound, TX | 214-433-9701 | rahul.guha@gmail.com
 
 I bring in unique blend of technology and agile experience to lead strategic changes across organization. My experience of playing most of the roles in software engineering delivers real results in a repeatable manner.
 
@@ -31,7 +27,6 @@ I lead a global team of 25+ Architects and Engineers focusing on firm&#39;s clou
 
 **Business Domains**
 
-- **Smart Buildings** – Driving secured smartbuilding capabilities that include occupency, contact tracing  along with traditional Building and Lighting Management by facilitating network isolation. 
 - **Financial Crime and Risk &amp; Compliance** – Drove compliance and surveillance related business applications for the firm.
 - **Remote Patient Monitoring** – Built Remote Patient Monitoring solution integrating with Low power Bluetooth devices
 - **Electronic Data Discovery** – Implemented applications supporting large scale EDD solutions
@@ -98,5 +93,3 @@ Education Highlights:
 **BE** from Jadavpur university, Kolkata, India
 
 Reference **:** _Will be furnished upon request_
-
-My Repo [GitHub](https://github.com/rahulguha).

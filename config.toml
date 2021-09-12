@@ -8,6 +8,7 @@ summarylength = 10
 enableEmoji = true
 enableRobotsTXT = true
 
+
 # Enable Disqus
 #disqusShortname = ""
 
@@ -23,9 +24,18 @@ customCss = ["css/styles.css"]
 [params]
 author = "Rahul Guha"
 title = "Rahul Guha's Homepage "
-description = "Call me Rahul"
+description = '''
+Call me Rahul
+This is multiline description
+'''
+mainSections = ["tech", "post"]
 profilePicture = "images/profile.jpg"
 copyright = "2019-{{ YEAR }}"
+singleDateFormat = "Mon, Jan 2, 2006"
+indexDateFormat = "Mon, Jan 2, 2006"
+listDateFormat = "Jan 2"
+
+readMore = true
 
 [markup]
     [markup.goldmark]
@@ -36,6 +46,7 @@ copyright = "2019-{{ YEAR }}"
     category = "categories"
     series = "series"
     tag = "tags"
+
 [menu]
 
   [[menu.main]]
@@ -45,13 +56,19 @@ copyright = "2019-{{ YEAR }}"
   url = "/"
 
   [[menu.main]]
-  name = "Posts"
+  name = "Technology"
   weight = 200
+  identifier = "tech"
+  url = "/tech/"
+  
+  [[menu.main]]
+  name = "Random Thoughts"
+  weight = 300
   identifier = "posts"
   url = "/post/"
 
   [[menu.main]]
   name = "Whoami"
-  weight = 300
+  weight = 400
   identifier = "about"
   url = "/about/"
